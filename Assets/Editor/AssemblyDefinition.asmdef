@@ -1,0 +1,12 @@
+{
+    "name": "umm@enum_selection-Editor",
+    "references": [
+        "umm@enum_selection"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
