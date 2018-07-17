@@ -11,7 +11,7 @@
 ## Install
 
 ```shell
-yarn add "umm-projects/enum_selection#^1.0.0"
+yarn add "umm/enum_selection#^1.0.0"
 ```
 
 ## Usage
