@@ -1,6 +1,6 @@
 {
   "name": "@umm/enum_selection",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "enum selection allows to select any type of enum class and value",
   "homepage": "https://github.com/umm-projects/enum_selection",
   "bugs": {
