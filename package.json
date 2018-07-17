@@ -2,9 +2,9 @@
   "name": "@umm/enum_selection",
   "version": "1.1.0",
   "description": "enum selection allows to select any type of enum class and value",
-  "homepage": "https://github.com/umm-projects/enum_selection",
+  "homepage": "https://github.com/umm/enum_selection",
   "bugs": {
-    "url": "https://github.com/umm-projects/enum_selection/issues"
+    "url": "https://github.com/umm/enum_selection/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -18,13 +18,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/enum_selection"
+    "url": "git@github.com:umm/enum_selection"
   },
   "files": [
     "Assets"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
